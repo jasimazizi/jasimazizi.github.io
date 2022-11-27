@@ -130,7 +130,7 @@ input, select, textarea {
 		font-size: 2em;
 		letter-spacing: -1px;
 		background: white;
-		opacity: 0.3;
+		opacity: 0.5;
 	}
 
 		h2.alt {
@@ -144,7 +144,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 		background: black;
-		opacity: 0.3;
+		opacity: 0.5;
 	}
 
 	header {
