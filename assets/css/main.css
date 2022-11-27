@@ -128,16 +128,14 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
-		background: #ffffff;
-		opacity: 0.5;
 	}
 
 		h2.alt {
-			color: #000000;
+			color: #666;
 		}
 
 			h2.alt strong {
-				color: #000000;
+				color: #888;
 			}
 
 	h3 {
