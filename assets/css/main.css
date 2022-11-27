@@ -143,9 +143,10 @@ input, select, textarea {
 	}
 
 	h4 {
+		color: white;
 		font-size: inherit;
 		background: black;
-		opacity: 0.9;
+		opacity: 0.8;
 	}
 
 	header {
