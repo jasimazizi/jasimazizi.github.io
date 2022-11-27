@@ -129,7 +129,7 @@ input, select, textarea {
 		font-size: 2em;
 		letter-spacing: -1px;
 		background: black;
-		opacity: 0.25;
+		opacity: 0.1;
 	}
 
 		h2.alt {
@@ -142,6 +142,8 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.5em;
+		background: black;
+		opacity: 0.25;
 	}
 
 	header {
@@ -206,8 +208,6 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
-		background: #CC5500;
-		opacity: 0.4;
 	}
 
 	br.clear {
