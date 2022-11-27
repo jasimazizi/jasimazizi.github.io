@@ -128,6 +128,8 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		background: white;
+		opacity: 0.6;
 	}
 
 		h2.alt {
