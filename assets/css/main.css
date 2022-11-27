@@ -126,10 +126,10 @@ input, select, textarea {
 		}
 
 	h2 {
-		color: black;
+		color: #000000;
 		font-size: 2em;
 		letter-spacing: -1px;
-		background: white;
+		background: #ffffff;
 		opacity: 0.5;
 	}
 
