@@ -143,6 +143,10 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.5em;
+	}
+
+	h4 {
+		font-size: inherit;
 		background: black;
 		opacity: 0.5;
 	}
