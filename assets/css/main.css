@@ -1750,6 +1750,11 @@ input, select, textarea {
 
 /* Image */
 
+	.responsive-image {
+	  height: auto;
+	  width: 100%;
+	}
+
 	.image {
 		display: inline-block;
 		border: 0;
